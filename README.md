@@ -25,8 +25,8 @@ A modern, responsive landing page designed for a developer conference (DevConf 2
 
 ## 📦 Dependencies
 *   Google Fonts
-*    icons
-*   
+*   icons
+   
 
 ## 🚀 How to Run Locally
 1. Clone the repository:
