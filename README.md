@@ -1,13 +1,14 @@
 # DevConf 2026 - Developer Conference Landing Page
 
-🔗 **Live Site:** [https://mashrafe313.github.io/PH_assignment-1_DevConf2026/](https://mashrafe313.github.io/PH_assignment-1_DevConf2026/)
+🔗 **Live Site:** [View DevConf 2026](https://mashrafe313.github.io/PH_assignment-1_DevConf2026/)
+
 
 ## 📖 Overview
 A modern, responsive landing page designed for a developer conference (DevConf 2026). This project focuses on clean UI, smooth animations, and a fully responsive layout to showcase event details, speakers, and ticketing information.
 
 ## 🖼️ Screenshot
-<img width="130" height="306" alt="Screenshot 2026-07-11 170910" src="https://github.com/user-attachments/assets/ad305968-eb1a-4226-a23e-ab7055f8e763" />
-<img width="130" height="306" alt="WhatsApp Image 2026-09-25 at 8 27 29 PM" src="https://github.com/user-attachments/assets/6a5e95ca-4825-405f-92ac-b49b280380e8" />
+<img width="450" height="800" alt="WhatsApp Image 2026-09-25 at 8 37 49 PM" src="https://github.com/user-attachments/assets/683d4bb8-2163-4022-8bf7-816430086ddf" />
+<img width="450" height="800" alt="WhatsApp Image 2026-09-25 at 8 37 49 PM (1)" src="https://github.com/user-attachments/assets/cd6302b6-23b2-43bf-88a6-b5ab46e3b7fe" />
 
 
 
