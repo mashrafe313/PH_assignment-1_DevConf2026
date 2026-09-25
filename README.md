@@ -7,8 +7,8 @@
 A modern, responsive landing page designed for a developer conference (DevConf 2026). This project focuses on clean UI, smooth animations, and a fully responsive layout to showcase event details, speakers, and ticketing information.
 
 ## 🖼️ Screenshot
-<img width="450" height="800" alt="WhatsApp Image 2026-09-25 at 8 37 49 PM" src="https://github.com/user-attachments/assets/683d4bb8-2163-4022-8bf7-816430086ddf" />
-<img width="450" height="800" alt="WhatsApp Image 2026-09-25 at 8 37 49 PM (1)" src="https://github.com/user-attachments/assets/cd6302b6-23b2-43bf-88a6-b5ab46e3b7fe" />
+<img width="451" height="1598" alt="WhatsApp Image 2026-09-25 at 8 43 43 PM" src="https://github.com/user-attachments/assets/cfaff4ec-5046-4f7f-b221-17d13f98c268" />
+
 
 
 
